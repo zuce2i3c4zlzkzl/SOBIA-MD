@@ -46,6 +46,7 @@ src="https://cardivo.vercel.app/api?name=SOBIA%20MD&description=A%20PAKISTANI%20
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <h1>OUR TEAM</h1>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <details>
 <h6>Authors</h6>
 
@@ -55,14 +56,14 @@ src="https://cardivo.vercel.app/api?name=SOBIA%20MD&description=A%20PAKISTANI%20
 |----|
 | [ UMAR REHMAN ](https://github.com/Um4r719) |
 | Co.Owner,Developer, Bug Fixer, Maintainer, Updates |
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br>
   
 | [![Sobia Butt](https://github.com/Sobxsparl.png?lenght=50width=50)](https://github.com/Sobxsparl) |
 |----|
 | [ SOBIA BUTT ](https://github.com/Sobxsparl) |
 |  Owner |
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
 
 </details>
