@@ -212,7 +212,16 @@ if (!isReact && senderNumber === botNumber) {
         m.react(randomOwnerReaction);
     }
 }
-//============================        
+   //====================================================================
+
+        if(config.AUTO_VOICE == 'true' ) {
+  const url = 'https://raw.githubusercontent.com/Um4r719/UD-MD-DATABASE/refs/heads/main/UMAR_VOICE/CONNECTOR/UD-MD'
+  let { data } = await axios.get(url)
+  for (vr in data){
+  if((new RegExp(`\\b${vr}\\b`,'gi')).test(body)) conn.sendMessage(from,{audio: { url : data[vr]},mimetype: 'audio/mpeg',ptt:true},{quoted:mek})   
+  }
+        }                      
+       
         
 //=================================WORKTYPE=========================================== 
 if(!isOwner && config.MODE === "private") return
