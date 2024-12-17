@@ -96,6 +96,21 @@
       "description": "write hear your name.",
       "required": true,
       "value": "SOBIA MD"
+    }, 
+     "STATUS_REPLY": {
+      "description": "enter your caption if you want to show on status reply.",
+      "required": true,
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү sσвx-м∂"
+    },
+    "AUTO_REPLY_STATUS": {
+      "description": "you can true or false it.",
+      "required": true,
+      "value": "true"
+    },
+    "HEART_REACT": {
+      "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
+      "required": true,
+      "value": "false"
     }
 
 },
