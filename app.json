@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/m1rf91.jpg"
+      "value": "https://i.ibb.co/mJS7B1G/Manul-Ofc-X.jpg"
     }, 
     
     "ALIVE_MSG": {
@@ -111,7 +111,12 @@
       "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
       "required": true,
       "value": "false"
-    }
+    }, 
+    "CAPTION": {
+      "description": "ADD YOUR CAPTION.",
+      "required": true,
+      "value": "POWERED BY SOBIA BUTT 🔥"
+   } 
 
 },
 
