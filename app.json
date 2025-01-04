@@ -1,5 +1,5 @@
 {
-  "name": "SILENT-SOBX-MD",
+  "name": "SOBIA MD",
   "description": "SOBIA MD IS THE MAKE BY USING BAILEY'S",
   "logo": "https://files.catbox.moe/m1rf91.jpg",
   "keywords": ["bot"],
@@ -112,12 +112,12 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY SILENTLOVER432"
+      "value": "POWERED BY SOBIABUTT133"
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү sιℓεηт-sσвx-м∂"
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү sσвia м∂"
     },
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
