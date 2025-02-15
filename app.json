@@ -1,5 +1,5 @@
 {
-  "name": "SILENT-SOBX-MD",
+  "name": "SOBIA-MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²",
   "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
   "keywords": ["bot"],
@@ -118,12 +118,12 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY SILENTLOVER432"
+      "value": "POWERED BY SOBIABUTT133"
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": false,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү sιℓεηт-sσвx-м∂"
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү -sσвia-м∂"
     },
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
